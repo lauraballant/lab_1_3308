@@ -1,1 +1,1 @@
-# lab_1_3308
+Lab 1 for Software Development CSCI 3308
